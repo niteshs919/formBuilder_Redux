@@ -1,0 +1,118 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.header {
+    display: flex;
+    height: 80px;
+    background-color: aquamarine;
+}
+.header:hover {
+    background-color: rgb(163, 196, 197);
+    color: white;
+}
+
+.main-input {
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.buttons{
+    margin-left: 237px;
+    margin-top: 24px;
+   
+}
+
+.buttons1{
+    padding: 2px 6px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+.buttons2{
+    padding: 2px 6px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+.buttons3{
+    padding: 2px 6px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+.buttons4{
+    padding: 2px 6px;
+    border-radius: 5px;
+    margin-right: 5px;  
+}
+
+.selected{
+   margin-left: 150px;
+   margin-top: 40px;
+}
+
+.selected input{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+label{
+    margin-right: 93px;
+}
+
+.drag-drop{
+    margin-left: 90px;
+    margin-top: 14px;
+}
+
+.drag-drop:hover{
+    color: white;
+    
+}
+
+.Display{
+        display: flex;
+}
+
+.image{
+    height: 42vw;
+    width: 60vw;
+}
+
+.inputfield input{
+    margin-top: 13px;
+    margin-left: 54px;
+    padding-top: 10px;
+    padding-right: 25px;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.inputfield1 input{
+    margin-top: 13px;
+    margin-left: 54px;
+    padding-top: 10px;
+    padding-right: 25px;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+
+.updatedata{
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    margin-top: 76px;
+    margin-left: -5px;
+}
+
+
+.setbuttton{
+    margin-left: 6px;
+    border-radius: 5px;
+}
